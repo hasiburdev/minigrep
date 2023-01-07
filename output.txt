@@ -1,0 +1,9 @@
+Searching for you
+In file /home/hasibur/.zshrc
+# If you come from bash you might have to change your $PATH.
+# Path to your oh-my-zsh installation.
+# Uncomment the following line if you want to disable marking untracked files
+# Uncomment the following line if you want to change the command execution time
+# Would you like to use another custom folder than $ZSH/custom?
+# Which plugins would you like to load?
+# You may need to manually set your language environment
